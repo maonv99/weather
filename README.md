@@ -1,4 +1,5 @@
 # Image App
+<img width="168" alt="Screen Shot 2566-12-12 at 20 09 42" src="https://github.com/maonv99/weather/assets/73025936/3995f5fa-0850-4592-a9fd-12efdb5fac11">
 
 # GetX Boilerplate Start Project
 
